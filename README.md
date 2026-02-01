@@ -10,8 +10,11 @@
 
 ## 📺 演示视频 (Demo Video)
 https://youtu.be/6nboqqFxZAw
+
 https://v0-daily-betting-card.vercel.app/
+
 PPT见仓库
+
 ---
 
 ## ## 🚩 核心痛点 (Pain Points)
